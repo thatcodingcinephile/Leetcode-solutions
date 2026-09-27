@@ -13,4 +13,12 @@ I have been using Python3 and Java for solving questions in LeetCode
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
