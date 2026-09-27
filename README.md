@@ -49,5 +49,6 @@ I have been using Python3 and Java for solving questions in LeetCode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
