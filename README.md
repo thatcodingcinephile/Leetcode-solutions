@@ -29,6 +29,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | ------- |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -99,4 +101,8 @@ I have been using Python3 and Java for solving questions in LeetCode
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
