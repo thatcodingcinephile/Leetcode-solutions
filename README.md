@@ -33,6 +33,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3099-harshad-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3099-harshad-number) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Simulation
