@@ -23,6 +23,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0151-reverse-words-in-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0704-binary-search](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
