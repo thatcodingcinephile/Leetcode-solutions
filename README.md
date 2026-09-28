@@ -73,12 +73,14 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3099-harshad-number) |
+| [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
 | ------- |
