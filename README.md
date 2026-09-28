@@ -22,6 +22,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 ## String Matching
 |  |
