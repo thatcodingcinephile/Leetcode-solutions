@@ -29,6 +29,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | ------- |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
