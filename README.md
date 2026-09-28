@@ -24,6 +24,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0344-reverse-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 ## Hash Table
 |  |
 | ------- |
