@@ -74,6 +74,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
