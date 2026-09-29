@@ -79,6 +79,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3099-harshad-number) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
@@ -93,6 +94,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +122,16 @@ I have been using Python3 and Java for solving questions in LeetCode
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
