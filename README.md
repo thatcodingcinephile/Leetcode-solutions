@@ -38,6 +38,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ I have been using Python3 and Java for solving questions in LeetCode
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Number Theory
 |  |
