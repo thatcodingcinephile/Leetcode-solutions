@@ -2,7 +2,6 @@
 These are the LeetCode questions I have solved till this date.
 
 I have been using Python3 and Java for solving questions in LeetCode.
-
 These solutions aren't efficient and not even solved using the DSA Concepts. However, I have just solved them using Basic Programming. 
 
 <!---LeetCode Topics Start-->
