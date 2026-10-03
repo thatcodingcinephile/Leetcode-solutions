@@ -94,6 +94,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3099-harshad-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
