@@ -64,6 +64,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -93,6 +94,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
