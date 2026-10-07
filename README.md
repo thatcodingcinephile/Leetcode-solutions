@@ -48,6 +48,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -67,6 +68,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -114,6 +116,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
