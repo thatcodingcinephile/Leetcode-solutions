@@ -1,9 +1,6 @@
 class Solution:
     def sumOfTheDigitsOfHarshadNumber(self, x: int) -> int:
-        numsum,c=0,0
-        real=x
-        while x>0:
-            c=x%10
-            numsum+=c
-            x//=10
-        return numsum if real%numsum==0 else -1
+        def sumofdigits(x):
+            if x==0: return 0
+            else: return (x%10)+sumofdigits(x//10)
+        return sumofdigits(x) if x%sumofdigits(x)==0 else -1
