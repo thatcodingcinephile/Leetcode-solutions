@@ -55,6 +55,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -66,6 +67,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3731-find-missing-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
