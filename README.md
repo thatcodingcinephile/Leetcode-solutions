@@ -33,6 +33,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Array
@@ -113,6 +114,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [2520-count-the-digits-that-divide-a-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3099-harshad-number) |
+| [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
