@@ -75,6 +75,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -200,4 +201,8 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
