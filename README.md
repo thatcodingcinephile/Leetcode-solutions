@@ -51,6 +51,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -67,6 +68,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0012-integer-to-roman](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3731-find-missing-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -188,6 +190,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Tree
