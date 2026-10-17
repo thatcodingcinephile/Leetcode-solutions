@@ -38,6 +38,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -196,6 +198,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
