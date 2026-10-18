@@ -34,6 +34,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2942-find-words-containing-character](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3340-check-balanced-string) |
@@ -61,6 +62,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1920-build-array-from-permutation](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
