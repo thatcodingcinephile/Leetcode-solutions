@@ -46,6 +46,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | ------- |
 | [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -221,4 +223,8 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
