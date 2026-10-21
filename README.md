@@ -56,6 +56,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -227,4 +228,8 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
