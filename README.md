@@ -95,6 +95,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -122,6 +123,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0012-integer-to-roman](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -182,6 +184,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
