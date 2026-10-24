@@ -16,6 +16,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0344-reverse-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2000-reverse-prefix-of-word](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -35,6 +36,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1816-truncate-sentence](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2942-find-words-containing-character](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
@@ -234,4 +236,8 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
