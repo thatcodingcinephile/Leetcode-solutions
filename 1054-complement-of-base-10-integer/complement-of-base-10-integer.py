@@ -1,3 +1,4 @@
-class Solution:
-    def bitwiseComplement(self, n: int) -> int:
-        return int("".join("0" if i=="1" else "1" for i in str(bin(n).replace("0b",""))),2)
+class Solution(object):
+    def bitwiseComplement(self, n):
+        m=(1<<n.bit_length())-1
+        return n^m if n!=0 else 1
