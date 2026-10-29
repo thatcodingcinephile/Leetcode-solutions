@@ -98,6 +98,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -242,6 +243,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
