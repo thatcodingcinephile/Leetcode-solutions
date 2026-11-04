@@ -59,6 +59,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -90,6 +91,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | ------- |
 | [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -194,6 +196,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
