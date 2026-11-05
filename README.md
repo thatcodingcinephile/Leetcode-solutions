@@ -55,6 +55,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
@@ -185,6 +186,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
