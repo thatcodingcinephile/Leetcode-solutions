@@ -45,6 +45,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [2351-first-letter-to-appear-twice](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -120,6 +121,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1009-complement-of-base-10-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## String Matching
 |  |
@@ -272,6 +274,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
