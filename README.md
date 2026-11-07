@@ -55,6 +55,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -191,6 +192,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -267,6 +269,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
