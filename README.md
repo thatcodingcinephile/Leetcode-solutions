@@ -12,6 +12,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0033-search-in-rotated-sorted-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
@@ -217,6 +219,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -311,4 +314,12 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
