@@ -48,6 +48,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2678-number-of-senior-citizens](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -95,6 +96,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
