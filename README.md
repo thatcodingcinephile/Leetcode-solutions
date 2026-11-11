@@ -79,6 +79,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | ------- |
 | [0001-two-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -234,6 +236,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -279,6 +282,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -302,6 +306,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -338,4 +343,8 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
