@@ -184,6 +184,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
