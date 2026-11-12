@@ -195,6 +195,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [2652-sum-multiples](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
@@ -275,6 +276,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prime Factorization
 |  |
 | ------- |
