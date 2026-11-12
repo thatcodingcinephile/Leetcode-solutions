@@ -93,6 +93,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0905-sort-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -125,6 +126,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0389-find-the-difference](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -245,6 +247,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0389-find-the-difference](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -348,4 +351,8 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
