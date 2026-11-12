@@ -138,6 +138,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | ------- |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0190-reverse-bits) |
@@ -176,6 +177,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0012-integer-to-roman](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -320,6 +322,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 |  |
 | ------- |
 | [0078-subsets](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0089-gray-code) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
