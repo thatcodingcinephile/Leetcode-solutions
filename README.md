@@ -87,6 +87,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0287-find-the-duplicate-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -250,6 +251,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
