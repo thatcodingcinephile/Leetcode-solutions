@@ -88,6 +88,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0349-intersection-of-two-arrays](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -125,6 +126,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0350-intersection-of-two-arrays-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
