@@ -40,6 +40,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0344-reverse-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
