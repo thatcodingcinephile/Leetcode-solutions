@@ -154,6 +154,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -189,6 +190,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0258-add-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -276,6 +278,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | ------- |
 | [0231-power-of-two](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
