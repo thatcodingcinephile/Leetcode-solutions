@@ -210,6 +210,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [2520-count-the-digits-that-divide-a-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
