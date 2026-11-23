@@ -218,6 +218,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [3280-convert-date-to-binary](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Simulation
