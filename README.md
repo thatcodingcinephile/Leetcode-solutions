@@ -148,6 +148,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [2418-sort-the-people](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -226,6 +227,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [3783-mirror-distance-of-an-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
