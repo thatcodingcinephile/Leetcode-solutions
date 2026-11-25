@@ -112,6 +112,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2418-sort-the-people](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -170,6 +171,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [1009-complement-of-base-10-integer](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## String Matching
