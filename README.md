@@ -23,6 +23,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0350-intersection-of-two-arrays-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -98,6 +99,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0704-binary-search](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -283,6 +285,7 @@ These solutions aren't efficient and not even solved using the DSA Concepts. How
 | [0414-third-maximum-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/thatcodingcinephile/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
